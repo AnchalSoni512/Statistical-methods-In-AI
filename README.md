@@ -22,3 +22,5 @@ Q4 - Siamese network(one shot learning) on MNIST dataset </br>
 ### Project
 Research paper implementation on Common representation learning using a multi modal correlated autotncoder </br>
 dataset taken - MNIST dataset
+
+nb: some of the solutions can be incomplete or inefficient
